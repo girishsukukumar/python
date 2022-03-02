@@ -10,4 +10,8 @@
 |   *1.4* | *Intro to Data Processing (statistical library module scipy) ( Mean median mode, SD, Percentile  Scatter plot etc)*            | | |
 |   *1.5* | *Intro to Rabbit MQ Message queue library*            | | |
 |   *1.5* | *Online Quiz*            | | |
-
+|   *2* | **Design Patterns in Python 8 hours** | **8 hours** | One hour for each module|
+|   *2.1* | *Creational Design Pattern*            | | |
+|   *2.2* | *Structural Design Patterns*            | | |
+|   *2.3* | *Behavioral Design Pattern*            | | |
+|   *2.4* | *Online Quiz*            | | |
