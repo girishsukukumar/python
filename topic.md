@@ -18,5 +18,5 @@
 |   3.1 | *Flow Control in Python* |             |             |
 |   3.2 | *Implementation of basic algorithms in python, using flow control* |             |             |
 |   3.3 | *Debugging Python programming* |             |             |
-|   3.2 | *Online Quiz |             |  
+|   3.2 | *Online Quiz* |             |  
 |  **4.0** |**Intro Data Structures in Python** | **2 hours** | |
