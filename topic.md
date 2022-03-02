@@ -1,4 +1,4 @@
-#  A Hands on course on Programming with Python Level One
+#  A Hands on course on Programming with Python (Level One)
 ### 
 
 |**No** | **Topic**         |**Duration** | **Comments**|
