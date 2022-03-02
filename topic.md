@@ -1,5 +1,6 @@
-#  Programming with Python
-### A Hands on Course
+#  A Hands on course on Programming with Python
+### 
 
-**No** | **Topic**| **Duration** | **Comments**|
------- | ---------| -------------|-------------|
+|**No** | **Topic**| **Duration** | **Comments**|
+|------ | ---------| -------------|-------------|
+|       |          |              |             |
