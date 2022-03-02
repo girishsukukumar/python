@@ -29,3 +29,10 @@
 |   *5.2* | *String processing in python*            | | |
 |   *5.3* | *Exception handling in python*           | | |
 |   *5.3* | *Online Quiz*            | | |
+|  **6**| **File handling in python** |**8 hours** |             |
+|   *6.1* | *Reading and writing to text files and binary files* | | |
+|   *6.2* | *Reading & Writing a csv file for processing data*            | | |
+|   *6.3* | *Python pickle*           | | |
+|   *6.4* | *Handling JSON data*           | | |
+|   *6.5* | *Logging in python*            | | |
+|   *6.6* | *Online Quiz*            | | |
