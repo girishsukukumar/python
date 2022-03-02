@@ -14,6 +14,6 @@
 |   2.1 | Implementing Formula's using expressions |             |             |
 |   2.2 | Operators in Python |             |             |
 |   2.3 | Online Quiz |             |             |
-|   3.0 | *Data types in python* |             |             |
+|   3.0 | **Data types in python** |             |             |
 |   3.1 | Basic Input & output functions in python |             |             |
 |   3.2 | Online Quiz |             |  
