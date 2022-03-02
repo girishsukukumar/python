@@ -38,7 +38,14 @@
 |   *7.1* | *Reading and writing to text files and binary files* | | |
 |   *7.2* | *Reading & Writing a csv file for processing data*            | | |
 |   *7.3* | *Python pickle*           | | |
-|   *7.4* | *Handling JSON data*           | | |
+|   *7.4* | *Reading and writing JSON Data files*           | | |
 |   *7.5* | *Logging in python*            | | |
 |   *7.6* | *Online Quiz*            | | |
 |   *8.0* | **Objected Oriented Programming in python** | **8 hours** | |
+|   *7.6* | *Definition of Classes & Methods*            | | |
+|   *7.6* | *Concept of self in python*            | | |
+|   *7.6* | *Concept of initialization in python*            | | |
+|   *7.6* | *Defining Objects and variables*            | | |
+|   *7.7* | *Inheritance*            | | |
+|   *7.8* | *Hands on exercise*            | | |
+|   *7.9* | *Online Quiz*            | | |
