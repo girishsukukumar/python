@@ -3,7 +3,7 @@
 
 |**No** | **Topic**         |**Duration** | **Comments**|
 |------ | ----------------- |-------------|-------------|
-|   **1***   | Basic of Python |  **'2 hours'**    |      .      |
+|   **1**   | **Basic of Python** |  **'2 hours'**    |      .      |
 |   1.1 | What is python and Why do we use python |             |             |
 |   1.2 | Different environements in python |             |             |
 |   1.3 | Installation and setup |             |             |
@@ -17,4 +17,4 @@
 |   3   | **Implementation of Algorithms in python** |*8 hours* |             |
 |   3.1 | Basic Input & output functions in python |             |             |
 |   3.2 | Online Quiz |             |  
-|4.0|Data Structures in Python | 2 hours | |
+|  **4.0** |**Intro Data Structures in Python** | *2 hours* | |
