@@ -42,10 +42,10 @@
 |   *7.5* | *Logging in python*            | | |
 |   *7.6* | *Online Quiz*            | | |
 |   *8.0* | **Objected Oriented Programming in python** | **8 hours** | |
-|   *7.6* | *Definition of Classes & Methods*            | | |
-|   *7.6* | *Concept of self in python*            | | |
-|   *7.6* | *Concept of initialization in python*            | | |
-|   *7.6* | *Defining Objects and variables*            | | |
-|   *7.7* | *Inheritance*            | | |
-|   *7.8* | *Hands on exercise*            | | |
-|   *7.9* | *Online Quiz*            | | |
+|   *8.1* | *Definition of Classes & Methods*            | | |
+|   *8.2* | *Concept of self in python*            | | |
+|   *8.3* | *Concept of initialization in python*            | | |
+|   *8.4* | *Defining Objects and variables*            | | |
+|   *8.5* | *Inheritance*            | | |
+|   *8.6* | *Hands on exercise*            | | |
+|   *8.8* | *Online Quiz*            | | |
