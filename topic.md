@@ -14,7 +14,9 @@
 |   2.1 | Implementing Formula's using expressions |             |             |
 |   2.2 | Operators in Python |             |             |
 |   2.3 | Online Quiz |             |             |
-|   3   | **Implementation of Algorithms in python** |*8 hours* |             |
-|   3.1 | Basic Input & output functions in python |             |             |
-|   3.2 | Online Quiz |             |  
+|   3   | **Implementation of Algorithms in python** |**8 hours** |             |
+|   3.1 | *Flow Control in Python* |             |             |
+|   3.2 | *Implementation of basic algorithms in python, using flow control* |             |             |
+|   3.3 | *Debugging Python programming* |             |             |
+|   3.2 | *Online Quiz |             |  
 |  **4.0** |**Intro Data Structures in Python** | **2 hours** | |
