@@ -24,3 +24,8 @@
 |   *4.1* | *List, Tuples, Dictionaries Set, Sequences etc*            | | |
 |   *4.2* | *Hands of exercises*            | | |
 |   *4.3* | *Online Quiz*            | | |
+|  **5**| **Implementation of Algorithms using  python Data structures** |**8 hours** |             |
+|   *5.1* | *Sorting Searching, list processing etc* | | |
+|   *5.2* | *String processing in python*            | | |
+|   *5.3* | *Exception handling in python*           | | |
+|   *5.3* | *Online Quiz*            | | |
