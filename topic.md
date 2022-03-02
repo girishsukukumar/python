@@ -18,7 +18,7 @@
 |   *3.1* | *Flow Control in Python* |             |             |
 |   *3.2* | *Implementation of basic algorithms in python, using flow control* |             |             |
 |   *3.3* | *Debugging Python programming* |             |             |
-|   *3.3* | *Hands of exercises*            | | |
+|   *3.3* | *Hands on exercises*            | | |
 |   *3.2* | *Online Quiz* |             |  
 |  **4**| **Function and modules in python** |**2 hours** |             |
 |   *4.1* | *Writing function and user defined modules* |             |             |
@@ -26,13 +26,14 @@
 |   *4.3* | *Online Quiz* |             |             |
 |  **5.0** |**Data Structures in Python** | **2 hours** | |
 |   *5.1* | *List, Tuples, Dictionaries Set, Sequences etc*            | | |
-|   *5.2* | *Hands of exercises*            | | |
+|   *5.2* | *Hands on exercises*            | | |
 |   *5.3* | *Online Quiz*            | | |
 |  **6**| **Implementation of Algorithms using  python Data structures** |**4 hours** |             |
 |   *6.1* | *Sorting Searching, list processing etc* | | |
 |   *6.2* | *String processing in python*            | | |
 |   *6.3* | *Exception handling in python*           | | |
-|   *6.3* | *Online Quiz*            | | |
+|   *6.4* | *Hands on exercises*            | | |
+|   *6.5* | *Online Quiz*            | | |
 |  **7**| **File handling in python** |**4 hours** |             |
 |   *7.1* | *Reading and writing to text files and binary files* | | |
 |   *7.2* | *Reading & Writing a csv file for processing data*            | | |
