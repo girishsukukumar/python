@@ -24,7 +24,7 @@
 |   *4.1* | *Writing function and user defined modules* |             |             |
 |   *4.2* | *Python Standard Library* |             |             |
 |   *4.3* | *Online Quiz* |             |             |
-|  **5.0** |**Data Structures in Python** | **2 hours** | |
+|  **5** |**Data Structures in Python** | **2 hours** | |
 |   *5.1* | *List, Tuples, Dictionaries Set, Sequences etc*            | | |
 |   *5.2* | *Hands on exercises*            | | |
 |   *5.3* | *Online Quiz*            | | |
