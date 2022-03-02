@@ -9,7 +9,8 @@
 |   *1.3* | *Intro to Mathlab plotting library*            | | |
 |   *1.4* | *Intro to Data Processing (statistical library module scipy) ( Mean median mode, SD, Percentile  Scatter plot etc)*            | | |
 |   *1.5* | *Intro to Rabbit MQ Message queue library*            | | |
-|   *1.6* | *Online Quiz*            | | |
+|   *1.6* | *Handson Exercise*            | | |
+|   *1.7* | *Online Quiz*            | | |
 |   *2* | **Design Patterns in Python 8 hours** | **8 hours** | One hour for each module|
 |   *2.1* | *Creational Design Pattern*            | | |
 |   *2.2* | *Structural Design Patterns*            | | |
@@ -24,4 +25,5 @@
 |   *3.6* | *in operator*            | | |
 |   *3.7* | *Recursive functions*            | | |
 |   *3.8* | *Webserver using python*            | | |
-|   *3.9* | *Online Quiz*            | | |
+|   *3.9* | *Handson Exercise*            | | |
+|   *3.10* | *Online Quiz*            | | |
