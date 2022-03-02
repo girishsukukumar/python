@@ -20,4 +20,7 @@
 |   3.3 | *Debugging Python programming* |             |             |
 |   3.3 | *Hands of exercises*            | | |
 |   3.2 | *Online Quiz* |             |  
-|  **4.0** |**Intro Data Structures in Python** | **2 hours** | |
+|  **4.0** |**Data Structures in Python** | **2 hours** | |
+|   4.1 | *List, Tuples, Dictionaries Set, Sequences etc*            | | |
+|   4.2 | *Hands of exercises*            | | |
+|   4.3 | *Online Quiz*            | | |
