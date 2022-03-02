@@ -40,3 +40,4 @@
 |   *7.4* | *Handling JSON data*           | | |
 |   *7.5* | *Logging in python*            | | |
 |   *7.6* | *Online Quiz*            | | |
+|   *8.0* | *Objected Oriented Programming in python* | *8 hours* | |
