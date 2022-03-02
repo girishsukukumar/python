@@ -11,9 +11,9 @@
 |   1.5 | *Basic Input & output functions in python* |             |             |
 |   1.6 | *Online Quiz* |             |             |
 |   2   | **Writing basic program in Python**  |  **1 hour**    |      .      |
-|   2.1 | Implementing Formula's using expressions |             |             |
-|   2.2 | Operators in Python |             |             |
-|   2.3 | Online Quiz |             |             |
+|   2.1 | *Implementing Formula's using expressions* |             |             |
+|   2.2 | *Operators in Python* |             |             |
+|   2.3 | *Online Quiz* |             |             |
 |   3   | **Implementation of Algorithms in python** |**8 hours** |             |
 |   3.1 | *Flow Control in Python* |             |             |
 |   3.2 | *Implementation of basic algorithms in python, using flow control* |             |             |
